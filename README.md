@@ -1,2 +1,0 @@
-# Krisztian
-Teszt
